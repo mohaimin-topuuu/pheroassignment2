@@ -1,0 +1,58 @@
+@media (max-width: 576px) {
+    .header-area i {
+        display: block;
+        color: #fff;
+        height: 30px;
+        width: 20px;
+        margin-top: 30px;
+    }
+    .navbar {
+        display: none;
+    }
+    .banner-area {
+        display: block;
+    }
+    .run-extra {
+        display: block;
+        text-align: center;
+    }
+    .run-extra-left {
+        margin-bottom: 15px;
+    }
+    .habit-images {
+        display: block;
+    }
+    .bmi-content {
+        display: block;
+    }
+    .bmi-content-left {
+        max-width: 100%;
+        justify-content: center;
+    }
+    .bmi-content-right {
+        max-width: 100%;
+        justify-content: center;
+    }
+    .team-images {
+        display: block;
+        
+    }
+    .img-text1, .img-text2, .img-text3, .img-text4, .img-text5, .img-text6 {
+        display: none;
+    }
+    .feedback-area {
+        display: block;
+        text-align: center;
+    }
+    .footer-parent {
+        display: block;
+        text-align: center;
+    }
+    .footer-middle {
+        margin-bottom: 20px;
+
+    }
+    .footer-middle a, .footer-right a {
+        justify-content: center;
+    }
+}
